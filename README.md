@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> he Lending Club Case Study is a project aimed at identifying the key factors that lead 
+> The Lending Club Case Study is a project aimed at identifying the key factors that lead 
 > to loan defaults by analyzing patterns in loan data. The project follows a systematic 
 > approach that includes the following steps: Data Sourcing, Data Loading, 
 > Data Cleaning and Handling, Data Deduplication, Data Standardisation, Data Filtering, 
